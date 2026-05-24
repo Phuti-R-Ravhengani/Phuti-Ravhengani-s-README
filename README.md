@@ -254,9 +254,13 @@ Currently developing a modern and informative website for Anointed Trinity Pre S
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuti-R-Ravhengani\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Phuti-R-Ravhengani\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+---
 
 ## 🔥 GitHub Streak
 
