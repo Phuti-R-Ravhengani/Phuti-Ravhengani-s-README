@@ -1,4 +1,3 @@
-# Phuti-Ravhengani-s-README
 # Hi there, I'm Phuti Ricky Ravhengani 👋
 
 ## Full Stack Developer | IT Student
