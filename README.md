@@ -224,11 +224,11 @@ A professional website created for the Mhinga Traditional Authority Council to s
 
 ---
 
-## 🏫 Anointed Trinity Pre School & Daycare Website (In Progress)
+## 🏫 Anointed Trinity Pre School & Creche Website (In Progress)
 
 ### Project Overview
 
-Currently developing a modern and informative website for Anointed Trinity Pre School & Daycare. The platform is aimed at helping parents easily access information about the school, programs, and activities.
+Currently developing a modern and informative website for Anointed Trinity Pre School & Creche. The platform is aimed at helping parents easily access information about the school, programs, and activities.
 
 ### Planned Features
 
