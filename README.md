@@ -277,6 +277,7 @@ Currently developing a modern and informative website for Anointed Trinity Pre S
 
 * 📧 Email: [phutiravhengani@gmail.com](mailto:phutiravhengani@gmail.com)
 * 💻 GitHub: [https://github.com/Phuti-R-Ravhengani](https://github.com/Phuti-R-Ravhengani)
+* 💻 LinkedIn: www.linkedin.com/in/phuti-ravhengani-814a113a4
 
 ---
 
